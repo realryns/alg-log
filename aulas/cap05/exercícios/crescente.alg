@@ -10,12 +10,13 @@ var
 
 inicio
 
+   //leitura de dados
    escreval("Digite dois números: ")
    leia(x)
    leia(y)
       
    enquanto x <> y faca
-   
+
       se x > y entao
          escreval("Decrescente!")
       senao
@@ -25,7 +26,7 @@ inicio
       escreval("Digite dois outros números: ")
       leia(x)
       leia(y)
-      
+
    fimenquanto
    
 fimalgoritmo
