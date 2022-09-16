@@ -11,7 +11,7 @@ var
 
 inicio
 
-   escreval("Digite  os valores das coordenadas X e Y: ")
+   escreval("Digite os valores das coordenadas X e Y: ")
    leia(x)
    leia(y)
       
@@ -31,7 +31,7 @@ inicio
           fimse
       fimse
       
-      escreval("Digite  os valores das coordenadas X e Y: ")
+      escreval("Digite os valores das coordenadas X e Y: ")
       leia(x)
       leia(y)
       
