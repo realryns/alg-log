@@ -11,6 +11,7 @@ Inicio
    leia(y)
    
    enquanto x <> y faca
+   
       se x < y entao
          escreval("CRESCENTE!")
       senao
@@ -20,6 +21,7 @@ Inicio
       escreval("Digite outros dois números: ")
       leia(x)
       leia(y)
+      
    fimenquanto
 
 Fimalgoritmo
